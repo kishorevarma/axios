@@ -8,6 +8,8 @@
 
 Promise based HTTP client for the browser and node.js
 
+Its Just a fork of axios library  but having proxy feature 
+
 ## Features
 
 - Make [XMLHttpRequests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) from the browser
